@@ -22,6 +22,7 @@ body{
     background-color: teal;
     padding: 11px;
     font-size: x-large;
+    font-family: 'Courgette';
     
 
 
@@ -32,11 +33,14 @@ body{
 
     text-align: center;
     font-size: x-large;
-    font-family: 'Raleway', ;
+    
+    font-family: 'Courgette';
     
 }
 .kelly{
 
     text-align: center;
     font-size: x-large;
+    font-family: 'Courgette';
+    
 }
