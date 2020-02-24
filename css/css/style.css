@@ -8,8 +8,9 @@ body{
 
 }
 .form-group{
-    text-align: left;
-    font-family: 'Coda Caption', sans-serif;
+    text-align: center; 
+    
+    padding: 50px;
 
 
 }
@@ -20,12 +21,22 @@ body{
     margin-right: 13px;
     background-color: teal;
     padding: 11px;
+    font-size: x-large;
     
 
 
 
 
 }
-label{
-    color: black;
+.name{
+
+    text-align: center;
+    font-size: x-large;
+    font-family: 'Raleway', ;
+    
+}
+.kelly{
+
+    text-align: center;
+    font-size: x-large;
 }
