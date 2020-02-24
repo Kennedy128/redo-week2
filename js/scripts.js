@@ -8,12 +8,12 @@ function akanBirth(){
 
     if (DDay <= 0 || DDay>31){
         document.getElementById('birthddate').value = '';
-        alert("invalid input.Dates must be between 1 and 31 ");
+        alert("invalid input.Date must be between 1 and 31 ");
         return;   
     }
     if (MMonth <= 0 || MMonth>12){
         document.getElementById('birthmonth').value = '';
-        alert("invalid month,Months must be between 1 and 12 ");
+        alert("invalid month,Month must be between 1 and 12 ");
         return;   
     }
     if(MMonth === ""||DDay===""||year===""){
